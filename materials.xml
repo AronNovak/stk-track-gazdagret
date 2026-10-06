@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<materials>
+  <material name="gz_grass.png" max-speed="0.6" slowdown-time="1.0"/>
+  <material name="gz_dirt.png" max-speed="0.8" slowdown-time="1.5"/>
+  <material name="gz_foliage.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gz_willow.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gz_conifer.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gz_fence.png" shader="alphatest"/>
+  <material name="gz_chainlink.png" shader="alphatest"/>
+  <material name="gz_text_kaptato.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_text_retkoz.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_checker.png" ignore="Y"/>
+  <material name="gz_line.png" ignore="Y"/>
+  <material name="gz_text_busz.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_zebra.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_arrow.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_hatch.png" shader="alphatest" ignore="Y"/>
+  <material name="gz_railing.png" shader="alphatest"/>
+  <material name="gz_guardrail.png" shader="alphatest"/>
+  <material name="gz_sign_warn.png" shader="alphatest"/>
+  <material name="gz_lattice.png" shader="alphatest"/>
+  <material name="gz_zipper.png">
+    <zipper duration="1.5" max-speed-increase="5.0" fade-out-time="3.0" speed-gain="4.5" min-speed="-1.0"/>
+  </material>
+</materials>
