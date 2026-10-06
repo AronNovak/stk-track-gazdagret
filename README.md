@@ -6,16 +6,16 @@ A [SuperTuxKart](https://supertuxkart.net) add-on track along Kaptató sétány,
 
 ## Install
 
-Clone into your SuperTuxKart add-on tracks folder. The folder must be called `gazdagret`:
+Clone it into your SuperTuxKart add-on tracks folder:
 
 ```bash
-git clone https://github.com/AronNovak/stk-track-gazdagret.git \
-  ~/.local/share/supertuxkart/addons/tracks/gazdagret
+cd ~/.local/share/supertuxkart/addons/tracks
+git clone https://github.com/AronNovak/stk-track-gazdagret.git
 ```
 
-On Windows use `%APPDATA%\supertuxkart\addons\tracks\gazdagret`, on macOS `~/Library/Application Support/SuperTuxKart/addons/tracks/gazdagret`.
+The tracks folder is `%APPDATA%\supertuxkart\addons\tracks` on Windows and `~/Library/Application Support/SuperTuxKart/addons/tracks` on macOS. Without git, download the ZIP and extract it there.
 
-The track then shows up under the Add-Ons group. Tested with SuperTuxKart 1.5.
+The track shows up under the Add-Ons group. Tested with SuperTuxKart 1.5.
 
 ## License
 
