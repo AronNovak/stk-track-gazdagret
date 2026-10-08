@@ -20,7 +20,7 @@
   <checks>
     <check-lap kind="lap" same-group="0" other-ids="1"/>
     <check-line kind="activate" other-ids="2" p1="112.45 1.51 -80.82" p2="143.49 1.51 -55.59" same-group="1"/>
-    <check-line kind="activate" other-ids="3" p1="-53.77 11.30 61.30" p2="-38.22 11.30 98.15" same-group="2"/>
+    <check-line kind="activate" other-ids="3" p1="78.97 3.19 -50.96" p2="106.66 3.19 -22.10" same-group="2"/>
     <check-line kind="activate" other-ids="4" p1="-302.50 22.88 268.60" p2="-260.01 22.88 269.20" same-group="3"/>
     <check-line kind="activate" other-ids="5" p1="-77.92 10.11 271.56" p2="-100.36 10.11 233.71" same-group="4"/>
     <check-line kind="activate" other-ids="6" p1="157.20 -4.20 78.28" p2="131.29 -4.20 42.71" same-group="5"/>

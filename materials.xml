@@ -22,4 +22,8 @@
   <material name="gz_zipper.png">
     <zipper duration="1.5" max-speed-increase="5.0" fade-out-time="3.0" speed-gain="4.5" min-speed="-1.0"/>
   </material>
+  <material name="gz_boost.png">
+    <zipper duration="3.5" max-speed-increase="25.0" fade-out-time="2.0" speed-gain="15.0" min-speed="-1.0"/>
+  </material>
+  <material name="gz_tunnel_lamp.png" shader="unlit" ignore="Y"/>
 </materials>
