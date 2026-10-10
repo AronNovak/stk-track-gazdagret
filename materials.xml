@@ -16,6 +16,7 @@
   <material name="gz_arrow.png" shader="alphatest" ignore="Y"/>
   <material name="gz_hatch.png" shader="alphatest" ignore="Y"/>
   <material name="gz_railing.png" shader="alphatest"/>
+  <material name="gz_railing_green.png" shader="alphatest"/>
   <material name="gz_guardrail.png" shader="alphatest"/>
   <material name="gz_sign_warn.png" shader="alphatest"/>
   <material name="gz_lattice.png" shader="alphatest"/>
