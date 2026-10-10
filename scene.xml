@@ -75,6 +75,11 @@
   <item id="gz.046" x="265.73" y="-6.29" z="-252.21"/>
   <item id="gz.047" x="268.15" y="-6.29" z="-250.44"/>
   <item id="gz.048" x="270.58" y="-6.29" z="-248.67"/>
+  <banana id="gz.049" x="-258.22" y="22.22" z="228.43"/>
+  <banana id="gz.050" x="-258.60" y="22.22" z="230.23"/>
+  <banana id="gz.051" x="-260.44" y="22.22" z="230.14"/>
+  <banana id="gz.052" x="-260.82" y="22.22" z="231.94"/>
+  <banana id="gz.053" x="-262.66" y="22.22" z="231.84"/>
   <object id="bus8e_0" type="animation" xyz="720.00 -44.27 -392.00" hpr="-0.2 -61.9 0.0" scale="1.00 1.00 1.00" interaction="flatten" shape="box" model="gz_bus.spm" flatten="y" skeletal-animation="false">
     <curve channel="LocX" interpolation="linear" extend="cyclic">
       <p c="1.00 720.000"/>
