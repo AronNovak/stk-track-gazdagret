@@ -1,8 +1,11 @@
 <?xml version="1.0"?>
 <graph>
-  <node-list from-quad="0" to-quad="610"/>
+  <node-list from-quad="0" to-quad="802"/>
   <edge-loop from="0" to="381"/>
   <edge-line from="382" to="610"/>
-  <edge from="59" to="382"/>
-  <edge from="610" to="144"/>
+  <edge-line from="611" to="802"/>
+  <edge from="79" to="382"/>
+  <edge from="610" to="164"/>
+  <edge from="5" to="611"/>
+  <edge from="802" to="171"/>
 </graph>
