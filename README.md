@@ -1,6 +1,6 @@
 # Gazdagrét - Kaptató sétány
 
-A [SuperTuxKart](https://supertuxkart.net) add-on track along Kaptató sétány, the promenade through the Gazdagrét housing estate in Budapest. The lap runs down the walkway between the panel blocks, or up Gazdagréti út past the swimming pool and the Szent Angyalok church, and comes back on Rétköz utca, past the local shops, schools and the 8E bus.
+A [SuperTuxKart](https://supertuxkart.net) add-on track along Kaptató sétány, the promenade through the Gazdagrét housing estate in Budapest. The lap runs down the walkway between the panel blocks, or down Gazdagréti út past the Szent Angyalok church and the swimming pool, and comes back on Rétköz utca, past the local shops, schools, parked cars and the 8E, 139, 153 and 154 buses.
 
 ![Screenshot](sshot-gazdagret.jpg)
 
