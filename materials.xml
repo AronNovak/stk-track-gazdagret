@@ -6,6 +6,16 @@
   <material name="gz_willow.png" shader="alphatest" backface-culling="n" ignore="Y"/>
   <material name="gz_conifer.png" shader="alphatest" backface-culling="n" ignore="Y"/>
   <material name="gz_fence.png" shader="alphatest"/>
+  <material name="gz_car_polo.png" shader="alphatest"/>
+  <material name="gz_car_golf.png" shader="alphatest"/>
+  <material name="gz_car_fiesta.png" shader="alphatest"/>
+  <material name="gz_car_focus.png" shader="alphatest"/>
+  <material name="gz_car_fabia.png" shader="alphatest"/>
+  <material name="gz_car_octavia.png" shader="alphatest"/>
+  <material name="gz_car_rav4.png" shader="alphatest"/>
+  <material name="gz_car_corolla.png" shader="alphatest"/>
+  <material name="gz_car_vitara.png" shader="alphatest"/>
+  <material name="gz_car_swift.png" shader="alphatest"/>
   <material name="gz_chainlink.png" shader="alphatest"/>
   <material name="gz_text_kaptato.png" shader="alphatest" ignore="Y"/>
   <material name="gz_text_retkoz.png" shader="alphatest" ignore="Y"/>
